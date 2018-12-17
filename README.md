@@ -6,10 +6,10 @@ Implements a double linked list from scratch. Meaning I wrote all of the methods
    3. Delete from head
    4. Delete from tail
    5. Traverse the list reversely
-   6. <Extra Credit> Print value Head points to
-   7. <Extra Credit> Print value Tail points to
+   6. Print value Head points to
+   7. Print value Tail points to
    8. Move head to tail
-   9. <Extra Credit 2>: Read in list from file
+   9. Read in list from file
 ```
 
 For option 9, I have provided a file for you called "num.dat". You may create your own version of "num.dat" as long as it is named the same.
