@@ -1,5 +1,5 @@
 # Doubly-Linked-List-From-Scratch
-Implements a double linked list from scratch. Meaning I wrote all of the methods and classes used in the code. A menu driven program that allows the user to simulate what it's like to interact with a doubly linked list by letting the user do things like: 
+Implements a double linked list from scratch. Meaning I wrote all of the methods and classes used in the code. This is a menu driven program that allows the user to simulate what it's like to interact with a doubly linked list by letting the user do things like: 
 ```
    1. Add a new node to the head
    2. Add a new node to the tail
